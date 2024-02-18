@@ -1,10 +1,10 @@
-package com.rowley.PhysicsQuiz;
+package com.physicsquiz.physicsquiz;
 
 import org.junit.jupiter.api.Test;
 import org.springframework.boot.test.context.SpringBootTest;
 
 @SpringBootTest
-class PhysicsQuizApplicationTests {
+class PhysicsquizApplicationTests {
 
 	@Test
 	void contextLoads() {

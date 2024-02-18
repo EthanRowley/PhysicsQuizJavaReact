@@ -1,14 +1,13 @@
-package com.rowley.PhysicsQuiz;
+package com.physicsquiz.physicsquiz;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
 
 @SpringBootApplication
-public class PhysicsQuizApplication {
+public class PhysicsquizApplication {
 
 	public static void main(String[] args) {
-		System.out.println("Hello World");
-		SpringApplication.run(PhysicsQuizApplication.class, args);
+		SpringApplication.run(PhysicsquizApplication.class, args);
 	}
 
 }
